@@ -3,7 +3,7 @@
 ## Overview
 This is an application that can be used to write, save, and delete notes.
 
-Here is a link to the deployed webpage: [https://git.heroku.com/cryptic-fortress-77754.git]
+Here is a link to the deployed webpage: [https://cryptic-fortress-77754.herokuapp.com/]
 
 ## Acceptance Criteria
 
